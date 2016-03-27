@@ -1,3 +1,4 @@
+
 appnope==0.1.0
 argh==0.26.1
 beautifulsoup4==4.4.1
@@ -11,6 +12,7 @@ gnureadline==6.3.3
 ipython==4.1.2
 ipython-genutils==0.1.0
 Jinja2==2.8
+LearningJournal=0.0
 Mako==1.0.4
 Markdown==2.6.5
 MarkupSafe==0.23
