@@ -51,7 +51,6 @@ requirements==0.1
 simplegeneric==0.8.1
 six==1.10.0
 SQLAlchemy==1.0.12
-testapp==0.0
 tox==2.3.1
 traitlets==4.1.0
 transaction==1.4.4
